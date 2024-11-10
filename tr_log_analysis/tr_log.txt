@@ -1,0 +1,4 @@
+[ERROR] hata mesaji
+[INFO] bilgi mesaji
+[WARNING] uyari mesaji
+[ERROR] hata mesaji

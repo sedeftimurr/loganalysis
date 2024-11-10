@@ -1,0 +1,3 @@
+[ERROR] hata mesaji
+[WARNING] uyari mesaji
+[ERROR] hata mesaji

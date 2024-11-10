@@ -1,0 +1,2 @@
+[WARNING] a warning message
+[ERROR] an error message
